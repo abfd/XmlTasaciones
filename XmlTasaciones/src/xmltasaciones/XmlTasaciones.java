@@ -22,5 +22,6 @@ public class XmlTasaciones {
     public XmlTasaciones ()
     {
         System.out.println("hola");
+        System.out.println("hola2");
     }
 }
